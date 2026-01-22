@@ -19,7 +19,7 @@
 header {
   background-color: #fff8f3;
   background:
-    url('../images/developer.png'), url('/images/header_bg.png'), #fff8f3;
+    url('./images/developer.png'), url('./images/header_bg.png'), #fff8f3;
   background-repeat: no-repeat;
   background-position:
     23px 38px,
